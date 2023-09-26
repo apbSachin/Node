@@ -12,3 +12,4 @@ module.exports={
     substract
 }
 
+console.log("updated");
